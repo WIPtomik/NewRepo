@@ -11,7 +11,12 @@ namespace NewRepo
         static void Main(string[] args)
         {
             asdffds
-                fdas
+                fdadfsafdsadsf
+            fads
+                f
+            das
+                dsdffasd
+            s
 
 
                 dalsi commit bude tuna
