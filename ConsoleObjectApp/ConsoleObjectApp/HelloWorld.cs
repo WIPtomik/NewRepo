@@ -13,8 +13,8 @@ namespace ConsoleObjectApp
             Console.WriteLine("Hello object world!");
         }
         public void pozdrav(string meno)
-        { 
-            Console.WriteLine
+        {
+            Console.WriteLine("Hello world {0}", meno);
         }
     }
 }
