@@ -8,5 +8,9 @@ namespace ConsoleObjectApp
 {
     class HelloWorld
     {
+        public void zdravic()
+        {
+            Console.WriteLine("Hello object world!");
+        }
     }
 }
